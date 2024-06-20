@@ -1,0 +1,3 @@
+Schema - Define Structure  
+       |-> Schema Model
+       |-> Using Model  CRUD operation(CREATE, READ, UPDATE, DELETE)
